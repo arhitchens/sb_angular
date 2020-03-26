@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-DemoApplication<backend>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.adam.backend.DemoApplication",
+            "projectName": "backend",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-BikeApplication<backend>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.adam.bike.BikeApplication",
+            "projectName": "backend",
+            "args": ""
+        }
+    ]
+}
